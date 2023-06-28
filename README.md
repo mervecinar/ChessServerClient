@@ -1,2 +1,2 @@
 # ChessServerClient
-Merve Çınar 1821221025 Bilgisayar Ağları Lab Proje 1
+Multiple player chess game. This is the socket program that you can play with multiple client.
